@@ -17,7 +17,7 @@ http://localhost:8002/api/admin <br />
  verifyOtp :                                http://localhost:8002/api/customer/verifyOtp <br />
 
 # AdminRoutes
-for getting all users list. <br />
+for getting all admins list. <br />
 getting all Admins List :   http://localhost:8002/api/admin/getAdminsList  <br />
 
 # for creating a new user
