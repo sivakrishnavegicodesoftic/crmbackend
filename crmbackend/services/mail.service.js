@@ -28,13 +28,13 @@ const sendEmail = async (to,html) => {
     var transporter = nodemailer.createTransport({
         service: 'gmail',
         auth: {
-          user: 'sivakrishnavegi.lpu@gmail.com',
-          pass: 'Krishna@2'
+          user: 'xxxxxxxx@gmail.com',
+          pass: 'xxxxx'
         }
       });
       
       var mailOptions = {
-        from: 'sivakrishnavegi.lpu@gmail.com',
+        from: 'xxxxxxxxx@gmail.com',
         to,
         subject: 'Email verfication ',
         text: 'few steps !',
