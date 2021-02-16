@@ -1,6 +1,9 @@
 # crmbackend
 
-
+ # Note 
+   to use otp smtp service configure email : <br />
+    services > mail.service.js    <br />
+    change email and password.    <br >
 # routes
 
 / homepage routes
